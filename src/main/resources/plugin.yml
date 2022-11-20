@@ -1,0 +1,10 @@
+name: ${project.name}
+version: '${project.version}'
+main: net.danh.kgeneratorsmmoitems.KGeneratorsMMOItems
+api-version: 1.16
+authors: [ VoChiDanh ]
+depend:
+  - KGenerators
+  - MMOItems
+  - MythicLib
+
